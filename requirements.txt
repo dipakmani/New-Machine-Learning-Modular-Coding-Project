@@ -1,0 +1,3 @@
+pandas
+numpy
+-e . #setup.file install karne ke liye use kar rahe hai
